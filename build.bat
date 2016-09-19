@@ -1,2 +1,2 @@
 call "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\vsvars32.bat"
-MSBuild.exe "C:\Users\Vibeesh\Documents\Visual Studio 2015\projects\LogarithmicSeries\LogarithmicSeries.sln" /t:rebuild
+MSBuild.exe LogarithmicSeries.sln /t:rebuild
